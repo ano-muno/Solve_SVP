@@ -1,0 +1,12 @@
+IdentificationNumber: 735025454
+ResultNums: 1
+InputData:
+  dim_size: 6
+  LatticeBasis: [[1626503387620368592, 0, 0, 0, 0, 0], [1278315702481872478, 1, 0, 0, 0, 0], [1551225824359783853, 0, 1, 0, 0, 0], [1623799402435944020, 0, 0, 1, 0, 0], [726061092597433340, 0, 0, 0, 1, 0], [1617579223744457976, 0, 0, 0, 0, 1]]
+Result1:
+  - way: ListSieve
+    Execute Time: 14348
+    ShortestVector: "[-218,-195,-300,164,189,132]"
+    ShortestVectorNorm: 505.56
+    ShortestVectorCoefficient: "[60,-195,-300,164,189,132]"
+    Comment: test

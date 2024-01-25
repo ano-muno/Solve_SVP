@@ -1,0 +1,12 @@
+IdentificationNumber: 905949943
+ResultNums: 1
+InputData:
+  dim_size: 4
+  LatticeBasis: [[1416181098453, 0, 0, 0], [195671523340, 1, 0, 0], [1393254705644, 0, 1, 0], [774551013408, 0, 0, 1]]
+Result1:
+  - way: ListSieve
+    Execute Time: 3026
+    ShortestVector: "[,570,42,309,-358]"
+    ShortestVectorNorm: 741.83
+    ShortestVectorCoefficient: "[,-114,42,309,-358]"
+    Comment: test

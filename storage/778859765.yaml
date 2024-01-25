@@ -1,0 +1,12 @@
+IdentificationNumber: 778859765
+ResultNums: 1
+InputData:
+  dim_size: 7
+  LatticeBasis: [[1394860806163528892747, 0, 0, 0, 0, 0, 0], [470052634901814790038, 1, 0, 0, 0, 0, 0], [1266485516464159126875, 0, 1, 0, 0, 0, 0], [174592477992900295871, 0, 0, 1, 0, 0, 0], [213145421438705087503, 0, 0, 0, 1, 0, 0], [1244311709762528764448, 0, 0, 0, 0, 1, 0], [520287324655456325435, 0, 0, 0, 0, 0, 1]]
+Result1:
+  - way: ListSieve
+    Execute Time: 27546
+    ShortestVector: "[598,210,120,253,-300,686,4]"
+    ShortestVectorNorm: 1020.2
+    ShortestVectorCoefficient: "[-779,210,120,253,-300,686,4]"
+    Comment: "CR_EXPERIMENT: dim7No10"

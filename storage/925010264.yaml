@@ -1,0 +1,12 @@
+IdentificationNumber: 925010264
+ResultNums: 1
+InputData:
+  dim_size: 6
+  LatticeBasis: [[2110852548856136769, 0, 0, 0, 0, 0], [1303029049717603370, 1, 0, 0, 0, 0], [1572892486202456503, 0, 1, 0, 0, 0], [1901102046157396991, 0, 0, 1, 0, 0], [1798143632227213590, 0, 0, 0, 1, 0], [1048612048915684912, 0, 0, 0, 0, 1]]
+Result1:
+  - way: ListSieve
+    Execute Time: 16482
+    ShortestVector: "[229,-87,-332,-313,420,554]"
+    ShortestVectorNorm: 866.9
+    ShortestVectorCoefficient: "[-50,-87,-332,-313,420,554]"
+    Comment: "CR_EXPERIMENT: dim6No14"

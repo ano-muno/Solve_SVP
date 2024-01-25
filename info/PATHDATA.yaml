@@ -1,0 +1,6 @@
+PATHDATA:
+  pyBKZfilePATH: "../source/pyfile/pyBKZ.py"
+  pyLLLfilePATH: "../source/pyfile/pyLLL.py"
+  datafolderPATH: "../storage"
+  tmpfolderPATH: "../tmp"
+  exfolderPATH: "../experiment"

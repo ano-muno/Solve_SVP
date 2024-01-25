@@ -1,0 +1,12 @@
+IdentificationNumber: 561513626
+ResultNums: 1
+InputData:
+  dim_size: 7
+  LatticeBasis: [[1584984578318023490631, 0, 0, 0, 0, 0, 0], [1357074691504592416179, 1, 0, 0, 0, 0, 0], [1111897360946157514552, 0, 1, 0, 0, 0, 0], [55256636879975848996, 0, 0, 1, 0, 0, 0], [1313549190697771572249, 0, 0, 0, 1, 0, 0], [57604452418172503457, 0, 0, 0, 0, 1, 0], [1300843932026238056615, 0, 0, 0, 0, 0, 1]]
+Result1:
+  - way: ListSieve
+    Execute Time: 47362
+    ShortestVector: "[166,165,437,-4,186,-341,-784]"
+    ShortestVectorNorm: 1005.6
+    ShortestVectorCoefficient: "[54,165,437,-4,186,-341,-784]"
+    Comment: "SCIS_notLLL_CA: dim7No1"

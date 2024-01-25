@@ -1,0 +1,12 @@
+IdentificationNumber: 32438254
+ResultNums: 1
+InputData:
+  dim_size: 5
+  LatticeBasis: [[63, -14, -1, 84, 61], [74, -20, 23, -32, -52], [93, -46, -19, 0, -63], [93, 11, 13, 60, 52], [33, -93, 12, 57, -2]]
+Result1:
+  - way: ListSieve
+    Execute Time: 3136
+    ShortestVector: "[0,-1,-1,0,-1]"
+    ShortestVectorNorm: 1.7321
+    ShortestVectorCoefficient: "[-19306,-10353,3097,16259,5524]"
+    Comment: n
